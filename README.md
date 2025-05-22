@@ -98,7 +98,6 @@ Here are a few projects I'm particularly proud of, showcasing my diverse skills 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagulan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" alt="Jagulan's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagulan&layout=compact&theme=dark&hide_title=true" alt="Top Languages"/>
   <br>
   </div>
